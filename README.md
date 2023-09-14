@@ -22,7 +22,8 @@ Then enter the target domain
 
     git clone https://github.com/jonnybravo7666/recon-script.git
 
-- To use this tool you have to install few other tools like subfinder, assetfinder, findomain and httpx-toolkit .
+# Prerequisite
+- To use this tool you have to install few other tools like subfinder, assetfinder, findomain and httpx-toolkit.
 
 # Subfinder
 - Subfinder tool requires go1.20 to install successfully. Run the following command to install the latest version:
