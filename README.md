@@ -20,7 +20,7 @@ Then enter the target domain
 
 # Installation 
 
-git clone <url>
+    git clone https://github.com/jonnybravo7666/recon-script.git
 
 - To use this tool you have to install few other tools like subfinder, assetfinder, findomain and httpx-toolkit .
 
