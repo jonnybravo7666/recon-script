@@ -21,6 +21,8 @@ Then enter the target domain
 # Installation 
 
     git clone https://github.com/jonnybravo7666/recon-script.git
+    cd recon-script
+    pip install pyfiglet
 
 # Prerequisite
 - To use this tool you have to install few other tools like subfinder, assetfinder, findomain and httpx-toolkit.
