@@ -14,7 +14,7 @@ Recon-Script is a subdomain search tool that helps in finding valid subdomains o
 
 # Usage
 
-- python recon-script.py
+     python recon-script.py
 
 Then enter the target domain
 
